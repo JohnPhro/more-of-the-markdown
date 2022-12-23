@@ -18,7 +18,4 @@ pipeline {
             step{
                 echo "Deploying the code..."
     }
-}
-agent
-satges
-steps
+}}}
